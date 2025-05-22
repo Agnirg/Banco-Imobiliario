@@ -16,7 +16,7 @@ Este projeto é uma versão digital e interativa do tradicional jogo Banco Imobi
 ### 🚀 Como jogar
 
 1. Acesse o jogo online no GitHub Pages:  
-   👉 [Clique aqui para jogar](https://agnirg.github.io/banco-imobiliario)
+   👉 [Clique aqui para jogar](https://agnirg.github.io/Banco-Imobiliario/)
 
 2. Adicione de 2 a 4 jogadores, personalizando nome e cor.
 3. Clique em **Iniciar Jogo**.
