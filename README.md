@@ -148,7 +148,10 @@ Regras do Banco Imobiliário / Monopoly
 
 ### 👩‍💻 Desenvolvido por
 
-Ingrid Cristine Gonçalves Frazão
+Ingrid Cristine Gonçalves Frazão  
+Matheus Santos Marinho de Souza  
+Luiz Eduardo Gonçalves   
+
 Curso: Análise e Desenvolvimento de Sistemas – UDF
 Ano: 2025
 
