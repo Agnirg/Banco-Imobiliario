@@ -138,16 +138,26 @@ Garantir que a lógica de turnos e falência estivesse sincronizada
 ### 📚 Referências
 
 Regras do Banco Imobiliário / Monopoly
+
 MDN Web Docs - Noções básicas de JavaScript
+
 Medium - Jogo da Memória em Vanilla JavaScript (por Marina Ferreira)
+
 W3Schools - HTML Game Example
+
 Alura Fórum - Jogo de Dados (Exemplo de Código)
+
 Livro - Lógica de Programação e Algoritmos com JavaScript (por Edécio Fernando Iepsen)
+
 GitHub Repository - VILHALVA/BANCO-IMOBILIARIO
+
 GitHub Repository - LucaDillenburg/Banco_Imobiliario-Cotuca
+
 GitHub Repository - lukadsant/javascriptGames
+
 YouTube - Como criar um jogo SIMPLES usando JavaScript e HTML (Canal Programação Web)
-YouTube - Criar Jogos com HTML CSS e JavaScript – Jogo dos 8 (Canal RBtech
+
+YouTube - Criar Jogos com HTML CSS e JavaScript – Jogo dos 8 (Canal RBtech)
 
 ---
 
